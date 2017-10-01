@@ -25,7 +25,7 @@ import com.suven.recyclerviewdemo.R;
 import com.suven.recyclerviewdemo.Model.UserDetails;
 
 import java.util.ArrayList;
-//creaed by sid
+//created by sid in subcat 123
 public class MainActivity extends AppCompatActivity {
     private RecyclerView recyclerView;
     private UserAdapter mAdapter;
