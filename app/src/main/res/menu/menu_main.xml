@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.suven.material.Activity.MainThemeActivity">
+    <item
+        android:id="@+id/actionChangeView"
+        android:title=""
+        android:icon="@drawable/ic_grid"
+        app:showAsAction="always" />
+
+</menu>
